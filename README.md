@@ -2,6 +2,7 @@
 
 ## Overview
 This project contains a process and cleaning of a comprehensive healthcare dataset containing 10 years (1999-2008) of clinical care data from 130 US hospitals. The dataset focuses on hospital records of patients diagnosed with diabetes, including laboratory tests, medications, and hospital stays.
+Afterwards, the cleaned data was uploaded to <b>IBM Cognos</b>- and created 4 dashboards visualizing different aspects in the diabetic data
 
 ## Dataset Description
 - Source: Clinical care data from 130 US hospitals and integrated delivery networks
